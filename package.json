@@ -1,6 +1,10 @@
 {
   "name": "valentine-web",
   "version": "0.1.0",
+  "engines": {
+    "npm": "8.18.0",
+    "node": "18.14.2"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
